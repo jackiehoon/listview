@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "54454577854",
+    "firebase_url": "https://chat-abfb7.firebaseio.com",
+    "project_id": "chat-abfb7",
+    "storage_bucket": "chat-abfb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54454577854:android:d27b7695dc2888f6",
+        "android_client_info": {
+          "package_name": "com.oz.edu.listview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54454577854-5sadk860ha2ppdkhan756j670p1hpjae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_1CnzNdaDVB-Q8kCh85wfIQ5feuA4sbw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
